@@ -1,4 +1,6 @@
-﻿namespace ShapesLib
+﻿using System;
+
+namespace ShapesLib
 {
     /// <summary>
     /// Круг
